@@ -74,7 +74,8 @@ StoryNest is a powerful text analysis and note-taking application designed for w
 - Text documents in .txt format
 
 ## Support
-For issues or questions, please file an issue in the repository.
+For issues or questions, please file an issue in the repository： https://github.com/cathyhuangli/app_support_url/issues
+Email Contact: cathyhuang2015@gmail.com
 
 ---
 StoryNest - Your Digital Reading and Note-Taking Companion 
